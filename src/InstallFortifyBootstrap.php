@@ -32,7 +32,7 @@ class InstallFortifyBootstrap extends Command
         'auth/login.blade.php' => 'auth/login.blade.php',
         'auth/register.blade.php' => 'auth/register.blade.php',
         'auth/confirm-password.blade.php' => 'auth/confirm-password.blade.php',
-        'auth/forgot-password.blade.php' => 'auth/forgot-password.blade.php',
+        'auth/forget-password.blade.php' => 'auth/forget-password.blade.php',
         'auth/reset-password.blade.php' => 'auth/reset-password.blade.php',
         'auth/two-factor-challenge.blade.php' => 'auth/two-factor-challenge.blade.php',
         'auth/verify-email.blade.php' => 'auth/verify-email.blade.php',
