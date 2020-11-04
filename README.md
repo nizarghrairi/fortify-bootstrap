@@ -10,12 +10,12 @@ Authentification scaffolding with Bootstrap 4
  To get started, install package using composer:
  
 ```bash
-composer require nizarghrairi/fortify-bootstrapizz
+composer require nizarghrairi/fortify-bootstrap
 ```
 Next Run install artisan command to publish bootstrap scoffolding to application
 
 ```bash
-php artisan fortify:bootstrapizz
+php artisan fortify:bootstrap
 npm install && npm run dev
 ```
 
